@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the session-id here.Lakiya-Md=nAl0lSJI#4H2wdw1fy9TMvHUN1UJ0UaFqVrxmcqqK9FFdMG_ISsc",
       "required": true
     },
  "NEWS_SEND_JID": {
